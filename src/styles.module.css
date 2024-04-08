@@ -1,0 +1,28 @@
+.container {
+	width: 90%;
+	margin: 10px auto 50px auto;
+}
+
+.table {
+	border: 1px solid #f0f0f0;
+	box-shadow: 0px 0px 22px 2px rgb(187, 187, 187);
+	border-radius: 8px;
+}
+.table thead th {
+	background: #ebebeb !important;
+}
+
+.table ul {
+	margin: 0px !important;
+	padding: 15px;
+	background: #ebebeb !important;
+}
+
+.table ul li:first-child {
+	margin-right: auto;
+}
+
+.input_form {
+	width: 25%;
+	margin: 50px auto 20px auto;
+}

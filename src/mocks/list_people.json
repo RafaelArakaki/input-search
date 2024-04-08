@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Rafael",
+		"age": 25,
+		"height": "1,75",
+		"weight": 82
+	},
+	{
+		"name": "Wilson",
+		"age": 23,
+		"height": "1,72",
+		"weight": 75
+	},
+	{
+		"name": "Adriana",
+		"age": 21,
+		"height": "1,62",
+		"weight": 54
+	},
+	{
+		"name": "Beatriz",
+		"age": 24,
+		"height": "1,59",
+		"weight": 50
+	},
+	{
+		"name": "Arthur",
+		"age": 22,
+		"height": "1,82",
+		"weight": 84
+	}
+]
